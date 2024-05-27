@@ -21,6 +21,5 @@ Please if you wanna retake this script, **id me on !**
  - help,
  - infos,
  - projets, 
- - contact,
-    };
+ - contact.
 ```
