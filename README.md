@@ -13,7 +13,7 @@ PATCHED USE THIS ONE
 
 |THIS SCRIPT was made by my hands|
 |-------------------------------------------------|
-This project was createdby my hands only.
+This project was made by my hands only.
 Please if you wanna retake this script, **id me on !**
 
 # Commands
